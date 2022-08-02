@@ -5,11 +5,14 @@
 // @description  new script
 // @author       ypca1
 // @match        http://*/*
+// @license      AGPL-3.0
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
 
-(function() {
+(
+    function() {
     'use strict';
     console.log('hello');
-})();
+}
+)();
